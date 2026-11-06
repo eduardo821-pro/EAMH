@@ -1,14 +1,13 @@
-100%
 body {
     font-family: Arial, sans-serif;
     margin: 0;
-    background-color: #ffcccc;
-    color: #333;
+    background-color: #0d41ed;
+    color: #3275e0;
 }
 
 /* ENCABEZADO */
 header {
-    background-color: plum;
+    background-color: #DBEAFE;
     color: black;
     text-align: center;
     padding: 20px;
@@ -16,7 +15,7 @@ header {
 
 /* MENÚ */
 nav {
-    background-color: #c184aa;
+    background-color: #25eedd;
     padding: 10px;
 }
 nav ul {
@@ -30,13 +29,13 @@ nav li {
 }
 
 nav a {
-    color: white;
+    color: black;
     text-decoration: none;
     font-weight: bold;
 }
 
 nav a:hover {
-    color: #ffcccc;
+    color: #FFFFFF;
 }
 
 /* CONTENIDO PRINCIPAL */
@@ -59,7 +58,7 @@ nav a:hover {
 
 /* PIE DE PÁGINA */
 footer {
-    background-color: purple;
+    background-color: rgb(0, 128, 109);
     color: white;
     text-align: center;
     padding: 15px;
